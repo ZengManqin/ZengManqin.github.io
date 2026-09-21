@@ -17,7 +17,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 ## Education & Experience
 
-* **Master's Degree (Joint Program), Robotics**
+* **Master's Degree, Joint Program**
   * *Southern University of Science and Technology (SUSTech) & Shenzhen Institutes of Advanced Technology (SIAT), CAS*
   * **Date:** Sept. 2024 - Expected June 2027 (Shenzhen, China)
   * **Advisors:** Prof. Xinyu Wu (IEEE Fellow) & Prof. Zhengkun Yi
@@ -34,4 +34,16 @@ I am currently a second-year Joint Master's student at the Southern University o
   * **Date:** Sept. 2020 - July 2024 (Guangzhou, China) | **GPA:** 3.63 / 4.0
   * **Advisor:** Prof. Yong Zhong
   * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023), University Outstanding Student Club Leader
-  * **Core Coursework:** AI Tech & Applications (96), Data Structures & Algorithms (96), Mechatronics (99), Classical Control Theory (90), Mechanics of Materials (96), Dynamic System Modeling (99)
+  
+## Research Experience
+
+*   **Bio-inspired Event-frame Dual-modal Tactile Sensing**
+    *   Engineered a novel dual-modal tactile sensor utilizing a DAVIS346 camera to replicate the human fast-slow tactile perception mechanism, capturing both microsecond-resolution dynamic event streams and static grayscale frames with precise spatio-temporal alignment.
+    *   Developed a decision-level fusion framework featuring a shared Transformer architecture and dynamic modality-preference strategies.
+    *   Demonstrated significant improvements over single-modal approaches, achieving 91.67% accuracy in a 10-class fabric texture discrimination task (lateral sliding) and 98.92% accuracy in a 10-class polyurethane foam stiffness classification task (vertical pressing).
+
+*   **Force-Based State Classification Networks for Robotic Assembly**
+    *   Refined a polarity-aware mathematical formulation to precisely extract the minimal snap-fit engagement sequence from continuous, extended force-time traces.
+    *   Implemented an automated self-labeling and sliding-window sampling pipeline that successfully expanded the original force dataset by approximately 270 times.
+    *   Proposed SF-Net, a deep learning architecture integrating a residual bidirectional LSTM (R-LSTM) backbone to handle long temporal dependencies and a focal loss function to mitigate severe class imbalance. 
+    *   Achieved a 96.40% classification accuracy on a public snap-fit benchmark, outperforming vanilla RNN, LSTM, and residual-RNN baselines.
