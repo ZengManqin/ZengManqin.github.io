@@ -15,6 +15,7 @@ Welcome to my personal page! I am currently a second-year Joint Master's student
 * **Session:** Focused - Reinventing the Tactile Sensor
 * **Date & Time:** Wednesday, September 30 | 09:00 - 09:44
 * **Location:** Room 326
+  
 I would love to connect and chat if you are also attending the conference! Please feel free to reach out.
 
 ## Education & Experience
