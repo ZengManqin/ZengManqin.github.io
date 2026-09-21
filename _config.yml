@@ -21,16 +21,17 @@ repository               : "ZengManqin/ZengManqin.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile.png" # 记得把你的照片上传到 /images 文件夹并命名为 profile.png
+  name             : "Manqin Zeng"
+  pronouns         : # 
+  bio              : "M.S. Student at SUSTech & SIAT. Research Assistant at CUHK. Seeking Fall 2027 PhD opportunities."
+  location         : "Shenzhen, China"
+  employer         : "SUSTech & SIAT | CUHK"
+  uri              : # 
+  email            : "12433371@mail.sustech.edu.cn"
 
   # Academic websites
   academia         : # URL
