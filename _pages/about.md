@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page! I am currently a second-year Joint Master's student at the **Southern University of Science and Technology (SUSTech)** and the **Shenzhen Institutes of Advanced Technology (SIAT), CAS**, advised by Prof. Xinyu Wu (IEEE Fellow) and Prof. Zhengkun Yi. In addition, I serve as a Research Assistant at **The Chinese University of Hong Kong (CUHK)** under the supervision of Prof. Li Zhang (IEEE Fellow).
+Welcome to my personal page! 
 
-🔥 **I am actively seeking PhD opportunities starting in Fall 2027!** My research primarily focuses on **robotic tactile perception, multimodal learning, soft robotics, and dexterous hands**.
+I am currently a second-year Joint Master's student at the **Southern University of Science and Technology (SUSTech)** and the **Shenzhen Institutes of Advanced Technology (SIAT), CAS**, advised by Prof. Xinyu Wu (IEEE Fellow) and Prof. Zhengkun Yi. In addition, I serve as a Research Assistant at **The Chinese University of Hong Kong (CUHK)** under the supervision of Prof. Li Zhang (IEEE Fellow).
+
+🔥 **I am actively seeking PhD opportunities starting in Fall 2027.** My research primarily focuses on **robotic tactile perception, multimodal learning, soft robotics, and dexterous hands**.
 
 📍 **Upcoming Event:** I will be attending **IROS 2026** to present our work on bio-inspired event-frame dual-modal tactile sensors. 
 * **Session:** Focused - Reinventing the Tactile Sensor
