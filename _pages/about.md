@@ -18,22 +18,22 @@ I am currently a second-year Joint Master's student at the Southern University o
 ## Education & Experience
 
 * **Master's Degree, Joint Program**
-  * *Southern University of Science and Technology (SUSTech) & Shenzhen Institutes of Advanced Technology (SIAT), CAS*
+  * *Southern University of Science and Technology & Shenzhen Institutes of Advanced Technology, CAS*
   * **Date:** Sept. 2024 - Expected June 2027 (Shenzhen, China)
-  * **Advisors:** Prof. Xinyu Wu (IEEE Fellow) & Prof. Zhengkun Yi
+  * **Advisors:** Prof. Xinyu Wu & Prof. Zhengkun Yi
   * **Research Area:** Tactile sensing technology and multimodal fusion
 
 * **Research Assistant**
-  * *The Chinese University of Hong Kong (CUHK)*
+  * *The Chinese University of Hong Kong*
   * **Date:** May 2026 - Present (Hong Kong, China)
-  * **Advisor:** Prof. Li Zhang (IEEE Fellow)
+  * **Advisor:** Prof. Li Zhang
   * **Research Area:** Wrist-fingertip collaborative tactile perception; Iontronic tactile sensing
 
 * **Bachelor's Degree, Robotics Engineering (English-Taught)**
-  * *South China University of Technology (SCUT)*
+  * *South China University of Technology*
   * **Date:** Sept. 2020 - July 2024 (Guangzhou, China), GPA: 3.63 / 4.0
   * **Advisor:** Prof. Yong Zhong
-  * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023), University Outstanding Student Club Leader
+  * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023)
   
 ## Research Experience
 <div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
