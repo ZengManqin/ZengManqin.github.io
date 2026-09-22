@@ -27,7 +27,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 <div align="center">
   <!-- 00.jpg -->
   <img src="/images/00.jpg" width="90%" style="border-radius: 10px;margin-top: 10px;">
-  <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.</em></p>
+  <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.(IROS 2026)</em></p>
 </div>
 
 *   **Multimodal Network:** 
@@ -36,7 +36,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 <div align="center">
   <!-- 1.jpg -->
   <img src="/images/1.jpg" width="90%" style="margin-top: 10px; margin-bottom: 10px;">
-  <p style="font-size: 0.9em; color: gray;"><em>Figure 2: The proposed multimodal fusion network architecture.</em></p>
+  <p style="font-size: 0.9em; color: gray;"><em>Figure 2: The proposed multimodal fusion network architecture.(IROS 2026)</em></p>
 </div>
 
 *   **Experiments & Results:** 
@@ -45,7 +45,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 <div align="center">
   <!-- 2.jpg -->
   <img src="/images/2.jpg" width="90%" style="margin-top: 10px; margin-bottom: 10px;">
-  <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experiment on texture and stiffness classification tasks.</em></p>
+  <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experiment on texture and stiffness classification tasks.(IROS 2026)</em></p>
 </div>
     
 *   **Key Innovations:**
