@@ -31,17 +31,18 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 * **Bachelor's Degree, Robotics Engineering (English-Taught)**
   * *South China University of Technology (SCUT)*
-  * **Date:** Sept. 2020 - July 2024 (Guangzhou, China) | **GPA:** 3.63 / 4.0
+  * **Date:** Sept. 2020 - July 2024 (Guangzhou, China), **GPA:** 3.63 / 4.0
   * **Advisor:** Prof. Yong Zhong
   * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023), University Outstanding Student Club Leader
   
 ## Research Experience
 
 *   **Bio-inspired Event-frame Dual-modal Tactile Sensing**
-    *   Engineered a novel dual-modal tactile sensor utilizing a DAVIS346 camera to replicate the human fast-slow tactile perception mechanism, capturing both microsecond-resolution dynamic event streams and static grayscale frames with precise spatio-temporal alignment.
-    *   Developed a decision-level fusion framework featuring a shared Transformer architecture and dynamic modality-preference strategies.
-    *   Demonstrated significant improvements over single-modal approaches, achieving 91.67% accuracy in a 10-class fabric texture discrimination task (lateral sliding) and 98.92% accuracy in a 10-class polyurethane foam stiffness classification task (vertical pressing).
+    *   **Overview:** Existing vision-based tactile sensors typically rely on a single modality, either event-based or frame-based. We designed a innovative event-frame dual-modal robotic tactile sensor with a DAVIS346 camera, which can synchronously capture microsecond-resolution dynamic event streams and rich static grayscale frames, replicating the fast-slow dual-pathway perception mechanism of human fingers. This approach significantly enhances robotic tactile perception and enables the system to excel at challenging material discrimination tasks.
 
+
+
+    *   **Key Innovations:** Developed a decision-level fusion framework featuring a shared Transformer architecture and dynamic modality-preference strategies[cite: 14]. This methodology effectively leverages complementary static and dynamic tactile features, achieving 91.67% accuracy in 10-class fabric texture discrimination and 98.92% in polyurethane foam stiffness classification[cite: 14].
 *   **Force-Based State Classification Networks for Robotic Assembly**
     *   Refined a polarity-aware mathematical formulation to precisely extract the minimal snap-fit engagement sequence from continuous, extended force-time traces.
     *   Implemented an automated self-labeling and sliding-window sampling pipeline that successfully expanded the original force dataset by approximately 270 times.
