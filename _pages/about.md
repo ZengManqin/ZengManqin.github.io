@@ -66,9 +66,9 @@ I am currently a second-year Joint Master's student at the Southern University o
     </div>
     
     *   **Key Innovations:**
-    *   **Sensor Hardware:** Developed a novel event frame dual modal tactile sensor that authentically replicates the fast slow dual pathway perception mechanism of the human tactile system[cite: 14].
-    *   **Fusion Network:** Proposed a three stage fusion method featuring frame synchronized event accumulation, a shared Transformer architecture, and dynamic decision level fusion[cite: 14].
-    *   **Experimental Performance:** Evaluated the system on highly challenging texture and stiffness classification tasks, significantly outperforming the best single modality by up to 13.34%[cite: 14].
+    *   **Dual-modal Sensor:** Developed a novel event frame dual modal tactile sensor that authentically replicates the fast slow dual pathway perception mechanism of the human tactile system.
+    *   **Fusion Network:** Proposed a three stage multimodal fusion method featuring frame synchronized event accumulation, a shared Transformer architecture, and dynamic decision level fusion.
+    *   **Experimental Performance:** Evaluated the system on highly challenging texture and stiffness classification tasks, significantly outperforming the best single modality by up to 13.34%.
 
 *   **Force-Based State Classification Networks for Robotic Assembly**
     *   Refined a polarity-aware mathematical formulation to precisely extract the minimal snap-fit engagement sequence from continuous, extended force-time traces.
