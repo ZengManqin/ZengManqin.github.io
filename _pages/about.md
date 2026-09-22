@@ -45,7 +45,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 00.jpg -->
-  <img src="/images/00.jpg" width="100%" style="margin-top: 10px;">
+  <img src="/images/00.jpg" width="90%" style="margin-top: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.</em></p>
 </div>
 
@@ -54,7 +54,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 1.jpg -->
-  <img src="/images/1.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="/images/1.jpg" width="90%" style="margin-top: 10px; margin-bottom: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 2: The proposed multimodal fusion network architecture.</em></p>
 </div>
 
@@ -63,7 +63,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 2.jpg -->
-  <img src="/images/2.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="/images/2.jpg" width="90%" style="margin-top: 10px; margin-bottom: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experiment on texture and stiffness classification tasks.</em></p>
 </div>
     
@@ -76,11 +76,16 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
   
-<h3 style="margin-top: 0;">Wrist-Fingertip Collaborative Perception for Snap-Fit Assembly</h3>
+<h3 style="margin-top: 0;">Collaborative Snap-Fit Assembly via Fingertip Iontronic Film and Wrist Six-Axis Force Sensing</h3>
 
 *   **Overview:** 
-    Investigated a collaborative perception framework utilizing a fingertip iontronic tactile sensor and a wrist-mounted six-axis force sensor. This approach aims to enhance robotic dexterity and reliability during the snap-fit assembly of Type-C and Type-A connectors.
-
+    During delicate assembly tasks, humans fundamentally rely on the coordination of multiple tactile perception systems. In wrist-fingertip synergy, the wrist detects global multi-directional force disturbances, whereas the fingertips are acutely sensitive to subtle variations from direct contact. To emulate this biological mechanism, we integrated a wrist-mounted six-axis force sensor with a custom-fabricated iontronic film attached to the robotic gripper. We successfully validated the critical complementarity of wrist force and fingertip iontronic tactile feedback through the precision snap-fit assembly of Type-A and Type-C connectors.
+    
+<div align="center">
+  <!-- 替换为你的Overview图片文件名 -->
+  <img src="/images/你的图片1.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
+  <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Hardware setup featuring the fingertip iontronic film and wrist six-axis force sensor.</em></p>
+</div>
 
 
 *   **Assembly Process:** 
