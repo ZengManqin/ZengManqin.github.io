@@ -36,9 +36,8 @@ I am currently a second-year Joint Master's student at the Southern University o
   * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023), University Outstanding Student Club Leader
   
 ## Research Experience
-
 <div style="background-color: #e9ecef; border: 1px solid #e9ecef; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
-
+  
 ### Bio-inspired Event-frame Dual-modal Tactile Sensing
 
 *   **Overview:** 
