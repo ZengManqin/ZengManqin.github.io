@@ -96,7 +96,7 @@ I am currently a second-year Joint Master's student at the Southern University o
   <video width="90%" controls autoplay loop muted style="margin-top: 10px; margin-bottom: 10px;">
     <source src="/images/1.mp4" type="video/mp4">
   </video>
-  <p style="font-size: 0.9em; color: gray;"><em>Video 2: Comparison of Success, Type 1 failure (partial insertion), and Type 2 failure (misalignment).</em></p>
+  <p style="font-size: 0.9em; color: gray;"><em>Video 1: Comparison of Success, Type 1 failure, and Type 2 failure.</em></p>
 </div>
 
 *   **Multimodal Fusion Performance:** 
