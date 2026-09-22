@@ -38,14 +38,14 @@ I am currently a second-year Joint Master's student at the Southern University o
 ## Research Experience
 <div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
   
-### Bio-inspired Event-frame Dual-modal Tactile Sensing
+<h3 style="margin-top: 0;">Bio-inspired Event-frame Dual-modal Tactile Sensing</h3>
 
 *   **Overview:** 
     Existing vision-based tactile sensors typically rely on a single modality, either event-based or frame-based. We designed a innovative event-frame dual-modal robotic tactile sensor with a DAVIS346 camera, which can synchronously capture microsecond-resolution dynamic event streams and rich static grayscale frames, replicating the fast-slow dual-pathway perception mechanism of human fingers. This approach significantly enhances robotic tactile perception and enables the system to excel at challenging material discrimination tasks.
 
 <div align="center">
   <!-- 00.jpg -->
-  <img src="/images/00.jpg" width="80%" style="margin-top: 10px;">
+  <img src="/images/00.jpg" width="100%" style="margin-top: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.</em></p>
 </div>
 
@@ -54,7 +54,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 1.jpg -->
-  <img src="/images/1.jpg" width="80%" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="/images/1.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 2: The proposed multimodal fusion network architecture.</em></p>
 </div>
 
@@ -63,7 +63,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 2.jpg -->
-  <img src="/images/2.jpg" width="80%" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="/images/2.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experiment on texture and stiffness classification tasks.</em></p>
 </div>
     
@@ -75,8 +75,8 @@ I am currently a second-year Joint Master's student at the Southern University o
 </div>
 
 <div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
-
-### Wrist-Fingertip Collaborative Perception for Snap-Fit Assembly
+  
+<h3 style="margin-top: 0;">Wrist-Fingertip Collaborative Perception for Snap-Fit Assembly</h3>
 
 *   **Overview:** 
     Investigated a collaborative perception framework utilizing a fingertip iontronic tactile sensor and a wrist-mounted six-axis force sensor. This approach aims to enhance robotic dexterity and reliability during the snap-fit assembly of Type-C and Type-A connectors.
