@@ -15,25 +15,6 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 📍 **Upcoming:** I will be presenting our work on bio-inspired event-frame dual-modal tactile sensors at **IROS 2026**. Catch my presentation at the *Focused - Reinventing the Tactile Sensor* session on Wednesday, Sept. 30 (09:00 - 09:44) in Room 326. I would love to connect and chat if you are also attending!
 
-## Education & Experience
-
-* **Master's Degree, Joint Program**
-  * *Southern University of Science and Technology & Shenzhen Institutes of Advanced Technology, CAS*
-  * **Date:** Sept. 2024 - Expected June 2027 (Shenzhen, China)
-  * **Advisors:** Prof. Xinyu Wu & Prof. Zhengkun Yi
-  * **Research Area:** Tactile sensing technology and multimodal fusion
-
-* **Research Assistant**
-  * *The Chinese University of Hong Kong*
-  * **Date:** May 2026 - Present (Hong Kong, China)
-  * **Advisor:** Prof. Li Zhang
-  * **Research Area:** Wrist-fingertip collaborative tactile perception; Iontronic tactile sensing
-
-* **Bachelor's Degree, Robotics Engineering (English-Taught)**
-  * *South China University of Technology*
-  * **Date:** Sept. 2020 - July 2024 (Guangzhou, China), GPA: 3.63 / 4.0
-  * **Advisor:** Prof. Yong Zhong
-  * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023)
   
 ## Research Experience
 <div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
