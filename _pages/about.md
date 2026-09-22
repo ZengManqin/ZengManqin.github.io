@@ -102,6 +102,12 @@ I am currently a second-year Joint Master's student at the Southern University o
 *   **Multimodal Fusion Performance:** 
     This ambiguity highlights the critical complementarity of fingertip tactile sensing. While wrist force struggles with collision similarities, the fingertip iontronic film is exquisitely sensitive to subtle vibrations just as human fingers. By integrating fingertip tactile feedback, the classification accuracy for success against Type 2 failures significantly improves to 78.76%, yielding a substantial 10.06% gain. Furthermore, in a generalized binary classification task differentiating success from any failure, our dual-modal fusion framework achieves an impressive overall accuracy of 90.4%.
 
-
-
 </div>
+
+## Research Interests
+
+*   🖐️ **Robotic Tactile Perception:** Developing novel biomimetic tactile sensors.
+*   🧠 **Multimodal Learning:** Designing deep learning architectures and fusion strategies.
+*   🦾 **Dexterous Hands:** Integrating advanced multi-modal perception systems into robotic end-effectors to achieve human-like dexterity in precision assembly.
+*   🐙 **Soft Robotics:** Exploring compliant structures and materials to enhance safe physical human-robot interaction and adaptive grasping capabilities.
+
