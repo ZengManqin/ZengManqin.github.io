@@ -88,19 +88,19 @@ I am currently a second-year Joint Master's student at the Southern University o
 </div>
 
 
-*   **Complementarity Analysis:** 
-    In snap-fit assembly, a successful insertion occurs when the plug is fully inserted, colliding with the socket bottom to connect. Failures are primarily categorized into two types: Type 1 (partial insertion without bottoming out) and Type 2 (severe misalignment causing collisions outside the socket). For Type 1 failures, the lack of collision allows the wrist six-axis force sensor alone to achieve an 85.14% accuracy in our Type-C experiments. However, both Type 2 failures and successful insertions generate significant force peaks due to collisions. This macro-level mechanical similarity causes the wrist force sensor to struggle, yielding only a 68.7% accuracy when classifying Success vs. Type 2 failures.
+*   **Snap-fit Experiment:** 
+    In snap-fit assembly, a successful insertion occurs when the plug is fully inserted and collides with the socket bottom to establish a connection. Failures are primarily categorized into two distinct types. Type 1 represents a partial insertion without bottoming out, while Type 2 involves severe misalignment that causes collisions outside the socket. For Type 1 failures, the lack of collision allows the wrist six-axis force sensor alone to achieve an 85.14% accuracy in our Type-C experiments. However, both Type 2 failures and successful insertions generate significant force peaks due to collisions. This macro-level mechanical similarity causes the wrist force sensor to struggle, yielding only a 68.7% accuracy when classifying success against Type 2 failures.
 
 <div align="center">
   <!-- 1.mp4 -->
-  <video width="100%" controls autoplay loop muted style="margin-top: 10px; margin-bottom: 10px;">
+  <video width="90%" controls autoplay loop muted style="margin-top: 10px; margin-bottom: 10px;">
     <source src="/images/1.mp4" type="video/mp4">
   </video>
   <p style="font-size: 0.9em; color: gray;"><em>Video 2: Comparison of Success, Type 1 failure (partial insertion), and Type 2 failure (misalignment).</em></p>
 </div>
 
 *   **Multimodal Fusion Performance:** 
-    This ambiguity highlights the critical complementarity of fingertip tactile sensing. While wrist force struggles with collision similarities, the fingertip iontronic film is exquisitely sensitive to subtle vibrations, effectively capturing the crucial transient "click" features of the snap-fit engagement—a mechanism closely mirroring the human tactile system. By integrating fingertip tactile feedback, the classification accuracy for Success vs. Type 2 failures significantly improves to 78.76% (a 10.06% gain). Furthermore, in a generalized binary classification task (Success vs. Any Failure), our dual-modal fusion framework achieves an impressive overall accuracy of 90.4%.
+    This ambiguity highlights the critical complementarity of fingertip tactile sensing. While wrist force struggles with collision similarities, the fingertip iontronic film is exquisitely sensitive to subtle vibrations just as human fingers. By integrating fingertip tactile feedback, the classification accuracy for success against Type 2 failures significantly improves to 78.76%, yielding a substantial 10.06% gain. Furthermore, in a generalized binary classification task differentiating success from any failure, our dual-modal fusion framework achieves an impressive overall accuracy of 90.4%.
 
 
 
