@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my personal page! 
 
-I am currently a second-year Joint Master's student at the Southern University of Science and Technology (SUSTech) and the Shenzhen Institutes of Advanced Technology (SIAT), CAS, advised by Prof. Xinyu Wu (IEEE Fellow) and Prof. Zhengkun Yi. In addition, I serve as a Research Assistant at The Chinese University of Hong Kong (CUHK) under the supervision of Prof. Li Zhang (IEEE Fellow).
+I am currently a second-year Joint Master's student at the Southern University of Science and Technology and the Shenzhen Institutes of Advanced Technology, CAS, advised by Prof. Xinyu Wu and Prof. Zhengkun Yi. In addition, I serve as a Research Assistant at The Chinese University of Hong Kong under the supervision of Prof. Li Zhang.
 
 🔥 **I am actively seeking PhD opportunities starting in Fall 2027. My research primarily focuses on robotic tactile perception, multimodal learning, soft robotics, and dexterous hands**.
 
@@ -41,15 +41,25 @@ I am currently a second-year Joint Master's student at the Southern University o
     *   **Overview:** Existing vision-based tactile sensors typically rely on a single modality, either event-based or frame-based. We designed a innovative event-frame dual-modal robotic tactile sensor with a DAVIS346 camera, which can synchronously capture microsecond-resolution dynamic event streams and rich static grayscale frames, replicating the fast-slow dual-pathway perception mechanism of human fingers. This approach significantly enhances robotic tactile perception and enables the system to excel at challenging material discrimination tasks.
 
     <div align="center">
-      <img src="/images/00.jpg" width="50%" style="margin-top: 10px;">
+      <!-- 00.jpg -->
+      <img src="/images/00.jpg" width="80%" style="margin-top: 10px;">
       <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.</em></p>
     </div>
 
     *   **Multimodal Network:** We developed a three stage fusion method to effectively integrate the visual and dynamic signals. The pipeline encompasses frame synchronized event accumulation, independent training through a shared Transformer architecture, and dynamic decision level fusion to maximize the complementary strengths of both modalities.
 
     <div align="center">
+      <!-- 1.jpg -->
       <img src="/images/1.jpg" width="80%" style="margin-top: 10px; margin-bottom: 10px;">
       <p style="font-size: 0.9em; color: gray;"><em>Figure 2: The proposed multimodal fusion network architecture.</em></p>
+    </div>
+
+    *   **Experiments & Results:** We evaluated the sensor and network on two highly challenging tactile tasks. For texture discrimination involving lateral sliding on ten diverse fabrics, the dual modal approach achieved 91.67% accuracy, which outperformed the best single modality by 13.34%. For stiffness classification involving vertical pressing on ten polyurethane foams, the system achieved 98.92% accuracy, exceeding the best single modality by 6.47%. These results demonstrate that combining event and frame modalities significantly enhances the capability to distinguish subtle material differences.
+
+    <div align="center">
+      <!-- 2.jpg -->
+      <img src="/images/2.jpg" width="80%" style="margin-top: 10px; margin-bottom: 10px;">
+      <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experimental results on texture and stiffness classification tasks.</em></p>
     </div>
     
     *   **Key Innovations:** Developed a decision-level fusion framework featuring a shared Transformer architecture and dynamic modality-preference strategies. This methodology effectively leverages complementary static and dynamic tactile features, achieving 91.67% accuracy in 10-class fabric texture discrimination and 98.92% in polyurethane foam stiffness classification.
