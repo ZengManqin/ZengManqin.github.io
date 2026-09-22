@@ -31,14 +31,15 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 * **Bachelor's Degree, Robotics Engineering (English-Taught)**
   * *South China University of Technology (SCUT)*
-  * **Date:** Sept. 2020 - July 2024 (Guangzhou, China), **GPA:** 3.63 / 4.0
+  * **Date:** Sept. 2020 - July 2024 (Guangzhou, China), GPA: 3.63 / 4.0
   * **Advisor:** Prof. Yong Zhong
   * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023), University Outstanding Student Club Leader
   
 ## Research Experience
 
 *   **Bio-inspired Event-frame Dual-modal Tactile Sensing**
-    *   **Overview:** Existing vision-based tactile sensors typically rely on a single modality, either event-based or frame-based. We designed a innovative event-frame dual-modal robotic tactile sensor with a DAVIS346 camera, which can synchronously capture microsecond-resolution dynamic event streams and rich static grayscale frames, replicating the fast-slow dual-pathway perception mechanism of human fingers. This approach significantly enhances robotic tactile perception and enables the system to excel at challenging material discrimination tasks.
+    *   **Overview:**
+    *   Existing vision-based tactile sensors typically rely on a single modality, either event-based or frame-based. We designed a innovative event-frame dual-modal robotic tactile sensor with a DAVIS346 camera, which can synchronously capture microsecond-resolution dynamic event streams and rich static grayscale frames, replicating the fast-slow dual-pathway perception mechanism of human fingers. This approach significantly enhances robotic tactile perception and enables the system to excel at challenging material discrimination tasks.
 
     <div align="center">
       <!-- 00.jpg -->
@@ -46,7 +47,8 @@ I am currently a second-year Joint Master's student at the Southern University o
       <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.</em></p>
     </div>
 
-    *   **Multimodal Network:** We developed a three stage fusion method to effectively integrate the visual and dynamic signals. The pipeline encompasses frame synchronized event accumulation, independent training through a shared Transformer architecture, and dynamic decision level fusion to maximize the complementary strengths of both modalities.
+    *   **Multimodal Network:**
+    *   We developed a three stage fusion method to effectively integrate the visual and dynamic signals. The pipeline encompasses frame synchronized event accumulation, independent training through a shared Transformer architecture, and dynamic decision level fusion to maximize the complementary strengths of both modalities.
 
     <div align="center">
       <!-- 1.jpg -->
@@ -54,15 +56,19 @@ I am currently a second-year Joint Master's student at the Southern University o
       <p style="font-size: 0.9em; color: gray;"><em>Figure 2: The proposed multimodal fusion network architecture.</em></p>
     </div>
 
-    *   **Experiments & Results:** We evaluated the sensor and network on two highly challenging tactile tasks. For texture discrimination involving lateral sliding on ten diverse fabrics, the dual modal approach achieved 91.67% accuracy, which outperformed the best single modality by 13.34%. For stiffness classification involving vertical pressing on ten polyurethane foams, the system achieved 98.92% accuracy, exceeding the best single modality by 6.47%. These results demonstrate that combining event and frame modalities significantly enhances the capability to distinguish subtle material differences.
+    *   **Experiments & Results:**
+    *   We evaluated the sensor and network on two highly challenging tactile tasks. For texture discrimination involving lateral sliding on ten diverse fabrics, the dual modal approach achieved 91.67% accuracy, which outperformed the best single modality by 13.34%. For stiffness classification involving vertical pressing on ten polyurethane foams, the system achieved 98.92% accuracy, exceeding the best single modality by 6.47%. These results demonstrate that combining event and frame modalities significantly enhances the capability to distinguish subtle material differences.
 
     <div align="center">
       <!-- 2.jpg -->
       <img src="/images/2.jpg" width="80%" style="margin-top: 10px; margin-bottom: 10px;">
-      <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experimental results on texture and stiffness classification tasks.</em></p>
+      <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experimental on texture and stiffness classification tasks.</em></p>
     </div>
     
-    *   **Key Innovations:** Developed a decision-level fusion framework featuring a shared Transformer architecture and dynamic modality-preference strategies. This methodology effectively leverages complementary static and dynamic tactile features, achieving 91.67% accuracy in 10-class fabric texture discrimination and 98.92% in polyurethane foam stiffness classification.
+    *   **Key Innovations:**
+    *   **Sensor Hardware:** Developed a novel event frame dual modal tactile sensor that authentically replicates the fast slow dual pathway perception mechanism of the human tactile system[cite: 14].
+    *   **Fusion Network:** Proposed a three stage fusion method featuring frame synchronized event accumulation, a shared Transformer architecture, and dynamic decision level fusion[cite: 14].
+    *   **Experimental Performance:** Evaluated the system on highly challenging texture and stiffness classification tasks, significantly outperforming the best single modality by up to 13.34%[cite: 14].
 
 *   **Force-Based State Classification Networks for Robotic Assembly**
     *   Refined a polarity-aware mathematical formulation to precisely extract the minimal snap-fit engagement sequence from continuous, extended force-time traces.
