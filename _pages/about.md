@@ -36,7 +36,7 @@ I am currently a second-year Joint Master's student at the Southern University o
   * **Awards:** Outstanding Bachelor's Thesis (Top 5%), National Scholarship (2022-2023), University Outstanding Student Club Leader
   
 ## Research Experience
-<div style="background-color: #e9ecef; border: 1px solid #e9ecef; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
+<div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
   
 ### Bio-inspired Event-frame Dual-modal Tactile Sensing
 
@@ -74,8 +74,23 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 </div>
 
-*   **Force-Based State Classification Networks for Robotic Assembly**
-    *   Refined a polarity-aware mathematical formulation to precisely extract the minimal snap-fit engagement sequence from continuous, extended force-time traces.
-    *   Implemented an automated self-labeling and sliding-window sampling pipeline that successfully expanded the original force dataset by approximately 270 times.
-    *   Proposed SF-Net, a deep learning architecture integrating a residual bidirectional LSTM (R-LSTM) backbone to handle long temporal dependencies and a focal loss function to mitigate severe class imbalance. 
-    *   Achieved a 96.40% classification accuracy on a public snap-fit benchmark, outperforming vanilla RNN, LSTM, and residual-RNN baselines.
+<div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
+
+### Wrist-Fingertip Collaborative Perception for Snap-Fit Assembly
+
+*   **Overview:** 
+    Investigated a collaborative perception framework utilizing a fingertip iontronic tactile sensor and a wrist-mounted six-axis force sensor. This approach aims to enhance robotic dexterity and reliability during the snap-fit assembly of Type-C and Type-A connectors.
+
+
+
+*   **Assembly Process:** 
+    Developed a multi-stage assembly strategy guided by real-time tactile and force feedback. The robotic system dynamically adjusts to contact states based on multi-sensor fusion, ensuring precise alignment and safe insertion for different connectors.
+
+
+
+*   **Snap-fit Success/Failure Classification:** 
+    Formulated the snap-fit engagement as a binary classification problem (success vs. failure). By leveraging the complementary data from both the fingertip and wrist sensors, the system can accurately identify the subtle transient features of snap-fit events, significantly improving assembly reliability.
+
+
+
+</div>
