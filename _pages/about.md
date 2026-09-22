@@ -37,7 +37,7 @@ I am currently a second-year Joint Master's student at the Southern University o
   
 ## Research Experience
 
-<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
+<div style="background-color: #e9ecef; border: 1px solid #e9ecef; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
 
 ### Bio-inspired Event-frame Dual-modal Tactile Sensing
 
@@ -46,7 +46,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 00.jpg -->
-  <img src="/images/00.jpg" width="100%" style="margin-top: 10px;">
+  <img src="/images/00.jpg" width="80%" style="margin-top: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.</em></p>
 </div>
 
@@ -55,7 +55,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 1.jpg -->
-  <img src="/images/1.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="/images/1.jpg" width="80%" style="margin-top: 10px; margin-bottom: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 2: The proposed multimodal fusion network architecture.</em></p>
 </div>
 
@@ -64,7 +64,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 2.jpg -->
-  <img src="/images/2.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
+  <img src="/images/2.jpg" width="80%" style="margin-top: 10px; margin-bottom: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 3: Experiment on texture and stiffness classification tasks.</em></p>
 </div>
     
