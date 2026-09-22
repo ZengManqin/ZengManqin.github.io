@@ -45,7 +45,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 00.jpg -->
-  <img src="/images/00.jpg" width="90%" style="margin-top: 10px;">
+  <img src="/images/00.jpg" width="90%" style="border-radius: 10px;margin-top: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Event-frame dual modal robotic tactile sensor.</em></p>
 </div>
 
@@ -93,7 +93,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 <div align="center">
   <!-- 1.mp4 -->
-  <video width="90%" controls autoplay loop muted style="margin-top: 10px; margin-bottom: 10px;">
+  <video width="90%" controls autoplay loop muted style="border-radius: 10px;margin-top: 10px; margin-bottom: 10px;">
     <source src="/images/1.mp4" type="video/mp4">
   </video>
   <p style="font-size: 0.9em; color: gray;"><em>Video 1: Comparison of Success, Type 1 failure, and Type 2 failure.</em></p>
