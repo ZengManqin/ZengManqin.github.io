@@ -82,8 +82,8 @@ I am currently a second-year Joint Master's student at the Southern University o
     During delicate assembly tasks, humans fundamentally rely on the coordination of multiple tactile perception systems. In wrist-fingertip synergy, the wrist detects global multi-directional force disturbances, whereas the fingertips are acutely sensitive to subtle variations from direct contact. To emulate this biological mechanism, we integrated a wrist-mounted six-axis force sensor with a custom-fabricated iontronic film attached to the robotic gripper. We successfully validated the critical complementarity of wrist force and fingertip iontronic tactile feedback through the precision snap-fit assembly of Type-A and Type-C connectors.
     
 <div align="center">
-  <!-- 替换为你的Overview图片文件名 -->
-  <img src="/images/你的图片1.jpg" width="100%" style="margin-top: 10px; margin-bottom: 10px;">
+  <!-- a.png -->
+  <img src="/images/a.png" width="90%" style="margin-top: 10px; margin-bottom: 10px;">
   <p style="font-size: 0.9em; color: gray;"><em>Figure 1: Hardware setup featuring the fingertip iontronic film and wrist six-axis force sensor.</em></p>
 </div>
 
