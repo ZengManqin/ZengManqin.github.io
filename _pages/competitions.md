@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Competitions"
 permalink: /competitions/
 author_profile: true
