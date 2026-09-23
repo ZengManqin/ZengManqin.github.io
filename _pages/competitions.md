@@ -13,14 +13,14 @@ author_profile: true
     <br> <!-- 1 -->
   
   <!-- vedio -->
-  <video width="90%" controls style="border-radius: 10px; overflow: hidden;">
+<video width="90%" controls style="display: block; margin: 0 auto; border-radius: 10px; overflow: hidden;">
   <source src="/files/loreal.mp4" type="video/mp4">
 </video>
 
-  <br> <!-- 1 -->
+<br> <!-- 1 -->
 
-  <!--  PPT -->
-  <iframe src="/files/lorealppt.pdf" width="100%" height="450" style="border-radius: 10px;border: 1px solid #ccc;"></iframe>
+<!-- PPT -->
+<iframe src="/files/lorealppt.pdf" width="90%" height="450" style="display: block; margin: 0 auto; border-radius: 10px; border: 1px solid #ccc;"></iframe>
 
 * **DJI 21st RoboMaster National Robotics Competition** <span style="float: right;">
   * *National First Prize*
@@ -30,7 +30,7 @@ author_profile: true
   <br>
 
   <!-- B -->
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117132264213296&bvid=BV1sZ8T6rE32&cid=41122726425&p=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500" style="border-radius: 10px; overflow: hidden;"></iframe>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117132264213296&bvid=BV1sZ8T6rE32&cid=41122726425&p=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400" style="border-radius: 10px; overflow: hidden;"></iframe>
 
   <br>
 
