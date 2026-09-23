@@ -19,12 +19,18 @@ author_profile: true
   <br> <!-- 加一个空行分隔视频和PDF -->
 
   <!-- 下面是嵌入的 PPT -->
-  <iframe src="/files/LorealPPT.pdf" width="100%" height="450" style="border: 1px solid #ccc;"></iframe>
+  <iframe src="/files/Lorealppt.pdf" width="100%" height="450" style="border: 1px solid #ccc;"></iframe>
 
 * **DJI 21st RoboMaster National Robotics Competition** <span style="float: right;">
   * *National First Prize* | **Role:** South China Tiger Team Member
   * **Structural Design of Projectile-Shooting Robotic Vehicles:** Contributed to the mechanical design and construction of custom ground vehicles designed to shoot projectiles and capture strategic resources in a highly dynamic combat arena.
   * Competed as a core member of SCUT's South China Tiger team (a traditional powerhouse with multiple national titles) in this prestigious DJI-sponsored national robotics combat competition.
+  <br>
+
+  <!-- 插入 B站 视频 -->
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117132264213296&bvid=BV1sZ8T6rE32&cid=41122726425&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+  <br>
 
 * **Ministry of Education (MoE) China International College Students' "Internet+" Innovation and Entrepreneurship Competition (Startup Group)** <span style="float: right;">
   * *Provincial Silver, Univ. Gold* | **Role:** Co-Leader
