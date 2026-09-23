@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education
 
-* **Southern University of Science and Technology (SUSTech) & SIAT, CAS**, Shenzhen, China
+* **Southern University of Science and Technology (SUSTech) & Shenzhen Institutes of Advanced Technology, CAS**, Shenzhen, China
   * *Master's Degree (Joint Program)* <span style="float: right;">**Sept 2024 - Present**</span>
   * **Advisors:** Prof. Xinyu Wu (IEEE Fellow) and Prof. Zhengkun Yi.
   * **Research Area:** Tactile sensing technology and multimodal fusion.
