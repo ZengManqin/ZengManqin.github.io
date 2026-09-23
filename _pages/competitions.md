@@ -30,7 +30,7 @@ author_profile: true
   <br>
 
   <!-- B -->
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117132264213296&bvid=BV1sZ8T6rE32&cid=41122726425&p=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400" style="border-radius: 10px; overflow: hidden;"></iframe>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117132264213296&bvid=BV1sZ8T6rE32&cid=41122726425&p=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="90%" height="400" style="border-radius: 10px; overflow: hidden;"></iframe>
 
   <br>
 
@@ -45,3 +45,6 @@ author_profile: true
   * Co-Leader
   * Linux-Based First-Person RoboMaster Simulator: Co-developed a comprehensive Linux-based first-person simulator for the RoboMaster competition to provide a realistic robotic operation and combat experience.
   * Partnered officially with DJI to host a national simulator league (XBOTCON 2022) across 30+ universities, actively managing product packaging, rule design, and the roadshow defense.
+  
+<!-- PPT -->
+<iframe src="/files/SimulatorX.pdf" width="90%" height="450" style="display: block; margin: 0 auto; border-radius: 10px; border: 1px solid #ccc;"></iframe>
