@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<br>
+<!-- 排错测试：用于检测后台到底抓取到了几个文件 -->
+<p style="color: red; font-weight: bold;">[Debug] Total files found: {{ site.teaching | size }}</p>
