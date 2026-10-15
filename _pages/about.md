@@ -100,7 +100,7 @@ I am currently a second-year Joint Master's student at the Southern University o
 </div>
 
 *   **Design & Mechanics:**  
-    We simplified the extruder structure into a compact two-part piston and syringe fixing mechanism to ensure secure attachment and easy disassembly[cite: 6, 7]. To achieve multi-material integration without cross-interference, we designed a single-layer horizontal switching platform driven by a three-axis motion framework and a CM35D controller, allowing the system to automatically carry, lift, and limit syringes to extrude liquid materials stably.
+    We simplified the extruder structure into a compact two-part piston and syringe fixing mechanism to ensure secure attachment and easy disassembly. To achieve multi-material integration without cross-interference, we designed a single-layer horizontal switching platform driven by a three-axis motion framework and a CM35D controller, allowing the system to automatically carry, lift, and limit syringes to extrude liquid materials stably.
 
 *   **Experiments & Results:**  
     We tested the prototype by printing multi-material planar and volumetric soft structures using silicone-based materials (such as vinyl-terminated silicone oils and crosslinkers). Experimental results demonstrate that the printer can successfully execute automated material switching and construct multi-material soft components, validating the effectiveness and feasibility of the proposed design.
