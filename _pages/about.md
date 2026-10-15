@@ -84,7 +84,33 @@ I am currently a second-year Joint Master's student at the Southern University o
     This ambiguity highlights the critical complementarity of fingertip tactile sensing. While wrist force struggles with collision similarities, the fingertip iontronic film is exquisitely sensitive to subtle vibrations just as human fingers. By integrating fingertip tactile feedback, the classification accuracy for success against Type 2 failures significantly improves to 78.76%, yielding a substantial 10.06% gain. Furthermore, in a generalized binary classification task differentiating success from any failure, our dual-modal fusion framework achieves an impressive overall accuracy of 90.4%.
 
 </div>
+<div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
+  
+<h3 style="margin-top: 0;">Automatic Material Changing System for Embedded 3D Printing of Soft Robots</h3>
 
+*   **Overview:**  
+    Soft robots typically require multi-material fabrication and need to be manufactured inside specific support materials. To address the limitations of traditional single-nozzle systems and enable automated material switching for embedded 3D printing, we developed an innovative automated material changing system featuring a simplified single-nozzle structure, optimized piston and syringe fixing mounts, and an integrated multi-nozzle motion platform.
+
+<div align="center">
+  <!-- 3D.mp4 -->
+  <video width="90%" controls autoplay loop muted style="border-radius: 10px;margin-top: 10px; margin-bottom: 10px;">
+    <source src="/files/3D.mp4" type="video/mp4">
+  </video>
+  <p style="font-size: 0.9em; color: gray;"><em>Video 3: Demo of the automated material changing 3D printer.</em></p>
+</div>
+
+*   **Design & Mechanics:**  
+    We simplified the extruder structure into a compact two-part piston and syringe fixing mechanism to ensure secure attachment and easy disassembly[cite: 6, 7]. To achieve multi-material integration without cross-interference, we designed a single-layer horizontal switching platform driven by a three-axis motion framework and a CM35D controller, allowing the system to automatically carry, lift, and limit syringes to extrude liquid materials stably.
+
+*   **Experiments & Results:**  
+    We tested the prototype by printing multi-material planar and volumetric soft structures using silicone-based materials (such as vinyl-terminated silicone oils and crosslinkers). Experimental results demonstrate that the printer can successfully execute automated material switching and construct multi-material soft components, validating the effectiveness and feasibility of the proposed design.
+
+*   **Key Innovations:**
+    *   **Simplified Extruder Design:** Developed a streamlined, modular piston and syringe fixation mechanism that improves structural stability and simplifies component replacement.
+    *   **Automated Material Switching:** Designed a multi-nozzle horizontal switching platform that enables seamless, automated transitions between different printing materials during the embedded 3D printing process.
+    *   **Prototyping & Validation:** Built a complete functional prototype spanning design, fabrication, and physical testing, successfully demonstrating automated multi-material fabrication for soft robotic applications.
+
+</div>
 ## Research Interests
 
 *   🖐️ **Robotic Tactile Perception:** Developing novel biomimetic tactile sensors.
