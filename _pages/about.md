@@ -96,7 +96,7 @@ I am currently a second-year Joint Master's student at the Southern University o
   <video width="90%" controls autoplay loop muted style="border-radius: 10px;margin-top: 10px; margin-bottom: 10px;">
     <source src="/files/3D.mp4" type="video/mp4">
   </video>
-  <p style="font-size: 0.9em; color: gray;"><em>Video 3: Demo of the automated material changing 3D printer.</em></p>
+  <p style="font-size: 0.9em; color: gray;"><em>Video 2: Demo of the automated material changing 3D printer.</em></p>
 </div>
 
 *   **Design & Mechanics:**  
