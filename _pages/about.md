@@ -13,8 +13,6 @@ I am currently a second-year Joint Master's student at the Southern University o
 
 🔥 **I am actively seeking PhD opportunities starting in Fall 2027. My research primarily focuses on robotic tactile perception, multimodal learning, soft robotics, and dexterous hands**.
 
-📍 **Upcoming:** I will be presenting our work on bio-inspired event-frame dual-modal tactile sensors at **IROS 2026**. Catch my presentation at the *Focused - Reinventing the Tactile Sensor* session on Wednesday, Sept. 30 (09:00 - 09:44) in Room 326. I would love to connect and chat if you are also attending!
-
   
 ## Research Experience
 <div style="border: 1.5px solid #d1d5db; padding: 20px; border-radius: 10px; margin-bottom: 25px;" markdown="1">
